@@ -1,5 +1,4 @@
-# SMB_Security_Audit
-# Internal Network Security Audit: SMB Vulnerability Assessment
+# SMB Security Audit Lab
 
 Conducted an internal network security assessment within a virtualized lab environment to identify and exploit Server Message Block (SMB) vulnerabilities. This project demonstrates practical proficiency in network enumeration, credential attacks, and post-exploitation techniques using Kali Linux.
 
