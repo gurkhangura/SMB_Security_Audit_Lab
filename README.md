@@ -1,6 +1,6 @@
 # SMB Security Audit Lab
 
-Conducted an internal network security assessment within a virtualized lab environment to identify and exploit Server Message Block (SMB) vulnerabilities. This project demonstrates practical proficiency in network enumeration, credential attacks, and post-exploitation techniques using Kali Linux.
+Conducted an internal network security assessment using Kali Linux to exploit SMB vulnerabilities on a Windows endpoint. Performed reconnaissance, user enumeration, and targeted credential attacks to gain administrative access and verify post-exploitation risks.
 
 ## Phase 1: Network Reconnaissance
 **Action:** Performed network reconnaissance using Nmap to identify exposed SMB and RPC services.
